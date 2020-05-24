@@ -1,0 +1,23 @@
+{
+  "name": "@m1yh3m/columns.node.sh",
+  "version": "1.0.0",
+  "main": "columns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "columns": "columns.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1yh3m/columns.node.sh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/m1yh3m/columns.node.sh/issues"
+  },
+  "homepage": "https://github.com/m1yh3m/columns.node.sh#readme",
+  "description": ""
+}
